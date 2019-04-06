@@ -1,0 +1,6 @@
+black==19.3b0
+jupyter==1.0.0
+pandas==0.24.2
+requests==2.21.0
+requests-cache==0.4.13
+Scrapy==1.6.0
